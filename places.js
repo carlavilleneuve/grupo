@@ -1,6 +1,8 @@
 let autocomplete;
 
-function initAutoComplete() {
+console.log("okok")
+
+/* function initAutoComplete() {
     autocomplete = new google.maps.places.Autocomplete(
         document.getElementById('adress-input'),
         {
@@ -27,4 +29,4 @@ function onPlaceChanged() {
             distancesContainers[i].style.display="flex";
         }
     }
-}
+} */
