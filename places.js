@@ -1,6 +1,9 @@
 let autocomplete;
 
-console.log("okok")
+console.log("okok");
+console.log("okok");
+console.log("okok");
+
 
 /* function initAutoComplete() {
     autocomplete = new google.maps.places.Autocomplete(
